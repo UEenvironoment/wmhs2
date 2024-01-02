@@ -1,0 +1,3 @@
+[submodule "wmhs2"]
+	path = wmhs2
+	url = https://github.com/CodeJocker/wmhs.git
