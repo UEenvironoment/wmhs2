@@ -1,0 +1,5 @@
+data types :
+
+varchar 
+
+cardinarities:  mathematical term that refer to the number of element in a given set.
